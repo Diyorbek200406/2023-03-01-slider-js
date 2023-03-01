@@ -13,17 +13,15 @@
   position: relative;
   transition: background-color 0.5s linear;
 }
-
 .container-portion {
-  width: 600px;
+  width: 680px;
   height: 280px;
   position: absolute;
-  left: 14%;
   top: 55%;
+  left: 14%;
   transform: translateY(-50%);
   overflow: hidden;
 }
-
 .slider {
   display: inline-flex;
   transition: 0.5s ease;
